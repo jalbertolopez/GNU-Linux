@@ -1,4 +1,4 @@
-###Change Hostname
+### Change Hostname
 1. Introduce the next line in terminal:
 
 ```
